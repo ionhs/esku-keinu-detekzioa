@@ -8,6 +8,9 @@
     "runArgs": [
         "--device=/dev/video0"
     ],
+    "mounts": [
+        "source=/home/tknika/curso_ros,target=/tmp/curso_ros,type=bind,consistency=cached"
+    ],
     "customizations": {
         // Configure properties specific to VS Code.
         "vscode": {
