@@ -8,7 +8,7 @@ Programa martxan jartzeko, garapen container bat sortu da (.devcontainer karpeta
 
 Bestalde, froga azkar bat bakarrik egin nahi bada, botoi honen bitartez ere egin daiteke:
 
-[![Open in Dev Containers](https://img.shields.io/static/v1?label=Dev%20Containers&message=Open&color=blue&logo=visualstudiocode)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/Tknika/esku-keinu-detekzioa)
+[![Open in Dev Containers](https://img.shields.io/static/v1?label=Dev%20Containers&message=Open&color=blue&logo=visualstudiocode)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/ionhs/esku-keinu-detekzioa)
 
 ## Exekuzioa
 
