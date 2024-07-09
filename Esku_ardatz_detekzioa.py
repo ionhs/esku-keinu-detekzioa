@@ -80,7 +80,7 @@ with mp_hands.Hands(
     # Flip the image horizontally for a selfie-view display.
     image =cv2.flip(image, 1)
     cv2.putText(img=image, text=str(hand_mesh_names[hand_landmark_result]), org=(10, 50), fontFace=cv2.FONT_HERSHEY_TRIPLEX, fontScale=2, color=(255, 0, 0),thickness=2)
-    fichero=open("/tmp/curso_ros/texto.txt",'w') # abrimos para escribir "nombre.txt"
+    fichero=open("/tmp/curso_ros/texto.txt",'w') # abrimos para escribir "texto.txt"
     texto=str(hand_mesh_names[hand_landmark_result]) # identificamos el gesto
     fichero.write(texto) # copiamos el texto en el archivo
     fichero.close() #guardamos y cerramos el archivo
